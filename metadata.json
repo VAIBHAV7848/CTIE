@@ -1,0 +1,5 @@
+{
+  "name": "Pastel Mood Tracker",
+  "description": "A frontend-only mood tracking application with visual data visualization, local state management, and a soft pastel aesthetic.",
+  "requestFramePermissions": []
+}
